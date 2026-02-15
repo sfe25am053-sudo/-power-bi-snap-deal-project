@@ -1,8 +1,9 @@
 # -power-bi-snap-deal-projectPROJECT COMPLETION REPORT
+PROJECT COMPLETION REPORT
 College: Holy Cross College (Autonomous), Tiruchirappalli
 Department: Artificial Intelligence and Machine Learning
-Name: Mathumitha.S 
-Register No: U25AM052 
+Name: Mathumitha.S
+Register No: U25AM052
 Project Title: Learn to Build Real Time Power BI Snapdeal Project
 Domain: Data Analytics
 Executive Summary This project demonstrates the end-to-end data life cycle, from automated web scraping to executive-level visualization. The goal was to analyze 100+ e-commerce products from Snapdeal to understand pricing dynamics and consumer feedback.
@@ -18,5 +19,6 @@ Tools and Technology Stack Programming Language: Python
 Libraries: Selenium (Web Automation), Pandas (Data Manipulation)
 Visualization: Power BI Desktop
 Version Control: GitHub
-Project Links GitHub Repository: https://github.com/sfe25am053-sudo/-power-bi-snap-deal-project 
-Live Project Link:  https://sfe25am053-sudo.github.io/-power-bi-snap-deal-project/
+Project Links GitHub Repository: : https://github.com/sfe25am053-sudo/-power-bi-snap-deal-project  
+Live Project Link: https://sfe25am053-sudo.github.io/-power-bi-snap-deal-project/ 
+
